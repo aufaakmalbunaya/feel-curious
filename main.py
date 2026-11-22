@@ -9,7 +9,7 @@ import os
 
 TEXT = (
     "In the wall of the old post office there is a drawer no key opens. "
-    "Every morning it holds one letter, addressed to whoever finds it, "
+    "Every morning it holds one letter, addressed to whoever opens it, "
     "and the handwriting is always your own."
 )
 
